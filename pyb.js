@@ -1,1 +1,1 @@
-document.getElementById("fullScreenDiv").style.display = "block";
+document.getElementById("fullScreenDiv").style.display = "none";
